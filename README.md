@@ -77,3 +77,33 @@ docker run -d --name flaskapp -v mysql-data:/var/lib/mysql -v ./message.sql:/doc
 ## 
 ## More to be updated -  Deployment on Kubernetes
 
+
+
+First Response (Professional and Concise):
+Successfully Handled Disaster Recovery (DR) for Premium Clients: Managed DR processes independently, showcasing expertise and reliability, while also training and mentoring colleagues to build team capability.
+
+Architectural and Functional Mastery of FISCD: Gained a comprehensive understanding of the FISCD architecture and trade flow within its components, enabling you to deliver a reverse knowledge transfer session for colleagues.
+
+Automation Initiatives and Operational Efficiency:
+
+Designed and implemented a Trade Volume Report generator for a premium client.
+Developed scripts to automate sanity checks for the CIMB client, reducing average sanity time from 20 minutes to 5 minutes daily.
+Automated morning checks for CV servers, significantly decreasing manual effort and improving operational efficiency.
+Second Response (Professional with Human Touch):
+Driving Disaster Recovery (DR) Success for Premium Clients: I successfully managed DR processes for premium clients with minimal reliance on senior guidance, demonstrating independence and expertise. Alongside this, I took pride in training and mentoring a colleague, ensuring our team is better equipped for future challenges.
+
+Deepening Expertise in FISCD: This year, I delved deeper into the FISCD architecture and gained valuable insights into its working and trade flow across components. Sharing this knowledge through a reverse KT session with the team was a fulfilling experience, contributing to our collective understanding.
+
+Boosting Efficiency through Automation:
+
+Designed a Trade Volume Report generator tailored for a premium client’s needs.
+Created an automated sanity check script for the CIMB client, reducing daily sanity check time from 20 minutes to just 5 minutes.
+Developed and deployed a script to automate CV server morning checks, significantly cutting down manual efforts and streamlining operations.
+Key Differences:
+Tone:
+
+The first response is more direct, concise, and formal, emphasizing accomplishments without personalization.
+The second response is more conversational and relatable, highlighting your pride and satisfaction in your achievements.
+Engagement:
+
+The second response conveys a sense of ownership, personal growth, and collaboration, which may resonate better in a one-on-one professional discussion.
